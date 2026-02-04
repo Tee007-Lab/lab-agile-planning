@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: This template is for creating user stories
+about: A Counter System
 title: ''
 labels: ''
 assignees: ''
@@ -12,12 +12,12 @@ assignees: ''
 **So that** [benefit]
 
 ### Details and Assumptions
-*[document what you know]
+* [document what you know]
 
 ### Acceptance Criteria
 
 '''gherkin
 Given [some context]
-When [centain action is taken]
+When [certain action is taken]
 Then [the outcome of action is observed]
 '''
